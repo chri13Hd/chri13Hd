@@ -1,4 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hola, soy Christopher 🐱‍🏍</h1>
+<img src="./Portada/fondoazul.png" alt="Imagen destacada de mi perfil en LinkedIn" style="width:100%; max-width:400px; border-radius:10px; margin-bottom:20px;">
+
+ 
+<p align="center"> Soy una apasionado del desarrollo de aplicaciones 🚀 en constante aprendizaje 📚.  <p align="center">
+<p align="center"> Me encanta aprender nuevas tecnologías 🧠 y expandir mis conocimientos 👩‍💻. <p align="center">
+
+## 🛠️ Entre mis habilidades puedo destacar:
+
+- 💻 Lenguajes como **Java**, **Kotlin** y **C#**,**JavaScript**, **TypeScript** 
+- 🗄️ Gestión de bases de datos como **PostgreSQL** y **MySQL**  
+- 🧱 Frameworks como **Spring Boot** y **Jetpack Compose**  
+- 🧰 Entornos de desarrollo como **Android Studio**, **Visual Studio**, **Unity** y **Eclipse**
+
 
 <!--
 **chri13Hd/chri13Hd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
