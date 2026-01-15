@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Christopher 🐱‍🏍</h1>
+<h1 align="center">Hola, soy Christopher 💻❗</h1>
 <img src="./Imagenes/fondo.png" alt="Imagen destacada de mi perfil en LinkedIn" style="width:90%;height: 100%; max-width:400px; border-radius:10px; margin-bottom:20px; align="center"">
 
  
